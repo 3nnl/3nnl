@@ -4,4 +4,4 @@
 - 🌐 Discord: .3nnl#4165.<br>
 - 🌐 Telegram: @nn3nl<br>
 ---
-- [![](https://visitcount.itsvg.in/api?id=3nnl&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=3nnl&icon=5&color=6)](https://visitcount.itsvg.in)
