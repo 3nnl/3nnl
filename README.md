@@ -1,7 +1,4 @@
 👋 Yo, I'm @3nl. <br>
-
----
-
 👀 I’m interested in CTF, Penetration Testing and Malware Analysis. <br>
 🌱 Currently student. <br>
 🌐 Socials: <br>
